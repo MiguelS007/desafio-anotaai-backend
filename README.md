@@ -11,6 +11,10 @@ This project is an API built using **Java, Java Spring, AWS Simple Queue Service
 
 The Microservice was developed for me, to demonstrate how to solve the [AnotaAi Backend Challenge](https://github.com/githubanotaai/new-test-backend-nodejs).
 
+## ARCHITECTURE
+
+![ARCHITECTURE](https://github.com/MiguelS007/desafio-anotaai-backend/assets/61780220/cdfd0f64-6dc8-48dd-844e-73331e57191a)
+
 ## Table of Contents
 
 - [Installation](#installation)
